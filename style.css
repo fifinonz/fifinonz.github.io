@@ -11235,9 +11235,9 @@ html.cookiebanner-show #cookiebanner.active .cookiebanner-main-wrap,html.cookieb
 }
 .number-counter {
       display: inline-block;
-      width: 1.5em;
-      height: 1.5em;
-      background-color: #333;
+      width: 2.5em;
+      height:2.5em;
+      background-color: #8a6d3b;
       color: #2D7436;
       border-radius: 50%;
       text-align: center;
