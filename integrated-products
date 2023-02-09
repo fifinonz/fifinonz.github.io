@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="en">
+   <head>
+      <meta charset="utf-8">
+      <!-- 
+         This website is powered by TYPO3 - inspiring people to share!
+         TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+         TYPO3 is copyright 1998-2023 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+         Information and contribution at https://typo3.org/
+         -->
+      <meta http-equiv="x-ua-compatible" content="IE=edge">
+      <meta name="generator" content="TYPO3 CMS">
+      <meta name="description" content="Today, we are a forerunner in the green transformation in our industry and are actively driving it forward.">
+      <meta name="viewport" content="width=device-width initial-scale=1.0">
+      <meta name="robots" content="index, follow, noydir, noodp">
+      <meta property="og:image" content="https://annualreport2021-22.aurubis.com/fileadmin/_processed_/7/c/csm_ar21-22-opengraph_bfc50aa747.jpg">
+      <meta property="og:image:url" content="https://annualreport2021-22.aurubis.com/fileadmin/_processed_/7/c/csm_ar21-22-opengraph_bfc50aa747.jpg">
+      <meta name="twitter:card" content="summary">
+      <meta name="format-detection" content="telephone=no">
+      <link rel="stylesheet" href="/home/fifinonz/Desktop/ICARDA/2023/AR22/style.css" media="all">
+      <link rel="stylesheet" href="/home/fifinonz/Desktop/ICARDA/2023/AR22/style.css" media="print">
+      <link rel="icon" type="image/png" href="/typo3conf/ext/kc_theme_aurubis22/Resources/Public/icons/favicon/favicon-16x16.png" sizes="16x16">
+      <link rel="icon" type="image/png" href="/typo3conf/ext/kc_theme_aurubis22/Resources/Public/icons/favicon/favicon-32x32.png" sizes="32x32">
+      <link rel="icon" type="image/png" href="/typo3conf/ext/kc_theme_aurubis22/Resources/Public/icons/favicon/android-icon-192x192.png" sizes="192x192">
+      <link rel="apple-touch-icon" href="/typo3conf/ext/kc_theme_aurubis22/Resources/Public/icons/favicon/apple-icon-180x180.png" sizes="180x180">
+      <meta name="msapplication-config" content="/typo3conf/ext/kc_theme_aurubis22/Resources/Public/icons/favicon/browserconfig.xml">
+      <!--[if lt IE 11]>
+      <link rel="shortcut icon" href="/typo3conf/ext/kc_theme_aurubis22/Resources/Public/icons/favicon/favicon.ico" type="image/x-icon" />
+      <link rel="icon" href="/typo3conf/ext/kc_theme_aurubis22/Resources/Public/icons/favicon/favicon.ico" type="image/x-icon" />
+      <![endif]-->
+      <title>Integrated Products - ICARDA Annual Report 2022</title>
+      <link rel="canonical" href="https://annualreport2021-22.aurubis.com/empowering-innovations">
+   </head>
+   <body>
+      <a class="skippy visually-hidden visually-hidden-focusable" href="#content"><span class="skippy-text">Skip to main content</span></a>
+      <div class="page">
+         <header id="header" class="d-print-none">
+            <div class="h-c">
+               <div class="h-c-1">
+                  <a href="/">
+                      <img class="lazy" style="object-position:50% 20%;" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="/home/fifinonz/Desktop/ICARDA/2023/AR22/logo-icarda-2022.png" width="768" height="576" alt="" />
+                  </a>
+                  <a href="#"><span>ICARDA Annual Report 2022</span></a>
+               </div>
+               <div class="h-c-2">
+                  <div class="h-s-f">
+                     <button aria-expanded="false" class="sopen"><span class="visually-hidden">Search</span><i class="icon-search"></i></button>
+                     <form action="/search?tx_indexedsearch_pi2%5Baction%5D=search&amp;tx_indexedsearch_pi2%5Bcontroller%5D=Search&amp;cHash=7e20aaea2d6b318f031a99deb9e054e4" method="post"><label for="tx_indexedsearch_pi2[search][sword]" class="h1">Your Search</label><input id="tx_indexedsearch_pi2[search][sword]" class="indexed-search-autocomplete-sword sword" title="Suche" name="tx_indexedsearch_pi2[search][sword]" placeholder="Search" value="" type="text" autocomplete="off"><input type="hidden" name="tx_indexedsearch_pi2[search][languageUid]" value="0"><button type="submit"><i class="icon-search"></i></button></form>
+                  </div>
+                  <a href="/download-center" class="h-t-d"><span>Download</span><i class="icon-download"></i></a>
+                  <ul class="h-l-s">
+                     <li class="lan-de"><a href="https://geschaeftsbericht2021-22.aurubis.com/empowering-innovations">DE</a></li>
+                     <li class="lan-en active"><a href="/empowering-innovations">EN</a></li>
+                  </ul>
+                  <button id="btn-hamburger" aria-expanded="false"><i></i><span class="visually-hidden">Menu</span></button>
+                  <div class="h-p-p">
+                     <div class="h-p-p-i">
+                        <div class="container-fluid">
+                           <div class="h-p-s"></div>
+                           <nav class="mainnav">
+                              <ul class="nav">
+                                 <li data-img="/fileadmin/_processed_/7/a/csm_gb21-22-aurubis-vorstand-header-nav_01_db00b4e548.jpg" data-img-lg="/fileadmin/_processed_/7/a/csm_gb21-22-aurubis-vorstand-header-nav_01_fe6565b825.jpg" data-uid="30" ><a href="/home/fifinonz/Desktop/ICARDA/2023/AR22/foreword">Message from the Board Chair and the Director General</a>
+                                 <li data-img="/fileadmin/_processed_/1/4/csm_gb21-22-aurubis-strategie-header-nav_613c4fc5bb.jpg" data-img-lg="/fileadmin/_processed_/1/4/csm_gb21-22-aurubis-strategie-header-nav_0bb21489aa.jpg" data-uid="24" ><a href="/home/fifinonz/Desktop/ICARDA/2023/AR22/our-strategy"></a>
+                                 <li data-img="/fileadmin/_processed_/a/9/csm_gb21-22-aurubis-energy-header-nav_7864e403a4.jpg" data-img-lg="/fileadmin/_processed_/a/9/csm_gb21-22-aurubis-energy-header-nav_f7e736f464.jpg" data-uid="25" ><a href="/home/fifinonz/Desktop/ICARDA/2023/AR22/climate-change">Climate Change and the Region</a>
+                                 <li data-img="/fileadmin/_processed_/8/5/csm_gb21-22-aurubis-recycling-header-nav_ffcf557fee.jpg" data-img-lg="/fileadmin/_processed_/8/5/csm_gb21-22-aurubis-recycling-header-nav_11aad3c57c.jpg" data-uid="26" ><a href="/home/fifinonz/Desktop/ICARDA/2023/AR22/water-sustainability">Water Sustainability</a>
+                                 <li data-img="/fileadmin/_processed_/5/0/csm_gb21-22-aurubis-innovations-header-nav_0e482fb98d.jpg" data-img-lg="/fileadmin/_processed_/5/0/csm_gb21-22-aurubis-innovations-header-nav_be5a566098.jpg" data-uid="27" ><a href="/home/fifinonz/Desktop/ICARDA/2023/AR22/integrated-products">Integrated Products</a>
+                                 <li data-img="/fileadmin/_processed_/4/0/csm_gb21-22-aurubis-employees-header-nav_96188e5527.jpg" data-img-lg="/fileadmin/_processed_/4/0/csm_gb21-22-aurubis-employees-header-nav_86608b6f81.jpg" data-uid="28" ><a href="/home/fifinonz/Desktop/ICARDA/2023/AR22/regional-collaborations">Regional Collaborations</a>
+                                 <li data-img="/fileadmin/_processed_/5/1/csm_gb21-22-aurubis-sustainability-header-nav_fbb7079a98.jpg" data-img-lg="/fileadmin/_processed_/5/1/csm_gb21-22-aurubis-sustainability-header-nav_33ba018c1a.jpg" data-uid="29" ><a href="/home/fifinonz/Desktop/ICARDA/2023/AR22/capacity-building">Capacity Building</a>
+                                <li data-img="" data-img-lg="" data-uid="31" ><a href="https://icarda.org/about-us/donors-and-partners">Donors & Partners</a>
+
+                                 <li data-img="" data-img-lg="" data-uid="37" ><a href="https://icarda.org/about-us/board-trustees">Board of Trustees</a>
+                                 <li data-img="" data-img-lg="" data-uid="37" ><a href="#">Financial Statements</a>
+
+                                 <li data-img="" data-img-lg="" data-uid="2" >
+                                    <a href="https://annual-report.icarda.org/">Past Reports</a>
+
+                                <!-- <li data-img="" data-img-lg="" data-uid="3" ><a href="/download-center">Download Center</a> -->
+                              </ul>
+                           </nav>
+
+                        </div>
+                     </div>
+                  </div>
+                  <div class="h-p-b">
+                     <div class="container-fluid">
+                        <div class="h-p-b-inner">
+                           <nav aria-label="Service"></nav>
+                           <div class="nav-social">
+                              <ul>
+                                 <li><a href="https://www.linkedin.com/company/640084" target="_blank"><span class="visually-hidden">Linkedin</span><span class="icon-vectorlinkedin" aria-hidden="true"></span></a></li>
+                                 <li><a href="https://twitter.com/Aurubis_AG" target="_blank"><span class="visually-hidden">Twitter</span><span class="icon-vectortwitter" aria-hidden="true"></span></a></li>
+                                 <li><a href="https://www.facebook.com/Aurubis" target="_blank"><span class="visually-hidden">Facebook</span><span class="icon-vectorfacebook" aria-hidden="true"></span></a></li>
+                                 <li><a href="https://www.instagram.com/aurubis_ag/" target="_blank"><span class="visually-hidden">Instagram</span><span class="icon-vectorinstagram" aria-hidden="true"></span></a></li>
+                                 <li><a href="https://www.youtube.com/AurubisComm" target="_blank"><span class="visually-hidden">Youtube</span><span class="icon-vectoryoutube" aria-hidden="true"></span></a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="search-autocomplete-results  no-results" data-mode="word" data-searchonclick="true" data-maxresults="10" data-minlength="2" data-searchurl="/empowering-innovations?no_cache=1&amp;tx_indexedsearchautocomplete_%5Baction%5D=search&amp;tx_indexedsearchautocomplete_%5Bcontroller%5D=Search&amp;type=7423794&amp;cHash=c767da55d72c58661c238f0df16f17ee"></div>
+         </header>
+         <main id="main">
+            <div class="breadcrumb-wrap d-print-none">
+               <nav aria-label="Breadcrumb" class="breadcrumb">
+                  <ol>
+                     <li><a href="/">Home</a><i aria-hidden="true"></i></li>
+                     <li data-uid="27"><a href="/empowering-innovations" aria-current="page" class="active">Integrated Products</a></li>
+                  </ol>
+               </nav>
+            </div>
+            <div class="container-fluid">
+               <div class="row">
+                  <div class="col-12 main-content-wrap">
+                     <div id="content">
+                        <!--TYPO3SEARCH_begin-->
+                        <div id="c66" class="au-top-int space-after-extra-small au-top-int-">
+                           <div class="au-top-int-inner">
+                              <div class="au-top-int-im">
+                                 <figure><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="/home/fifinonz/Desktop/ICARDA/2023/AR22/bg8.jpg" alt="Foto: ICARDA: Metallguss"></figure>
+                                 <figure><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="/home/fifinonz/Desktop/ICARDA/2023/AR22/bg7.jpg" alt="Foto: ICARDA: Kupfer"></figure>
+                                 <figure><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="/home/fifinonz/Desktop/ICARDA/2023/AR22/bg10.jpg" alt="Foto: ICARDA: Headerbild"></figure>
+                              </div>
+                              <div class="au-top-int-c">
+                                 <h1 style="font-weight: 700;"class="i-title">Our intergrated<br>products</h1>
+                              </div>
+                           </div>
+                        </div>
+                        <div id="c115" class="au-text space-after-default">
+                           <div class="row">
+                              <div class="col-md-10 col-xl-8">
+                                 <p class="p-intro">For more than 150 years, we have stood for innovation. We are continuously optimizing our plants and metallurgical processes. Today, we are a forerunner in the green transformation in our industry and are actively driving it forward. We are a pioneer in testing alternative energy sources such as hydrogen and ammonia, are operating a pilot plant for recycling lithium-ion batteries, and are capitalizing on the opportunities associated with digitalization in all areas. Together, we are building the Digital Factory of the future.</p>
+                                 <p>Just as when the company first started out, Aurubis' core focus continues to be producing metals of the highest quality from a range of raw materials. We are working on making even better use of the increasingly complex primary and secondary raw materials and on recovering more metals at a faster rate. Our research and development (R&amp;D) activities are therefore based on optimizing our existing metallurgical processes and developing new processing methods. This involves a focus not just on copper, but on virtually every element of the periodic table &ndash; we are multimetal thinkers. Along with laboratories and pilot plants, computers are the most important tool for our R&amp;D activities. We are leveraging all the options digitalization offers to model, understand, improve, and thus speed up our metallurgical processes. Our researchers and metallurgists work closely with our production engineers, mathematicians and data analysts here.</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div id="c118" class="au-it au-it-imagerightbig space-after-default">
+                           <div class="au-it-i">
+                              <div class="row align-items-md-end">
+                                 <div class="col-md-6 col-xl-8 order-md-3">
+                                    <figure>
+                                       <picture><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="/fileadmin/_processed_/8/4/csm_cr21-22-part-of-the-factory_f7a0d55c91.jpg" alt="Photo: Aurubis: Part of the plant"></picture>
+                                    </figure>
+                                 </div>
+                                 <div class="col-md-6 col-xl-4">
+                                    <div>
+                                       <h2 class="Magazin_H2">Exploring the future</h2>
+                                       <p class="p-intro">This is precisely what we are doing in one of our future-oriented projects: In March 2022, Aurubis commissioned a pilot plant for battery recycling at its Hamburg site. Our goal is to close the battery production cycle by recovering the valuable raw materials from the &ldquo;black mass&rdquo; out of used lithium-ion batteries from electric vehicles, as well as waste from battery production, and to make these metals available for battery production again.</p>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div id="c117" class="au-text space-after-extra-large">
+                           <div class="row">
+                              <div class="col-md-10 col-xl-8">
+                                 <p>To achieve this aim, black mass &mdash; a mixture resulting from the mechanical preprocessing of lithium-ion batteries &mdash; is broken down into its component parts, thus gradually releasing lithium, cobalt, manganese, and nickel. The addition of lithium would raise the number of metals produced by Aurubis to 21. Following the testing of our new, hydrometallurgical process in a laboratory phase and its successful patenting, we are testing on a larger scale at the pilot plant (see image above), further developing the process and collecting important data for the later construction of an industrial scale plant. In addition to economic feasibility and the availability of materials down the road, integrating this plant into Aurubis' smelter network is also a key issue. An appropriate site will be selected based on factors such as the potential use of existing infrastructure and optimal integration of metal flows along with space requirements and cost.</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div id="c119" class="au-it au-it-imageleftbig space-after-default">
+                           <div class="au-it-i">
+                              <div class="row align-items-md-center">
+                                 <div class="col-md-6 col-xl-8">
+                                    <figure>
+                                       <picture><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="/fileadmin/_processed_/1/1/csm_cr21-22-closing_the_loop_0790832d79.jpg" alt=""></picture>
+                                    </figure>
+                                 </div>
+                                 <div class="col-md-6 col-xl-4">
+                                    <div>
+                                       <h4 class="Magazin_H4">Closing the cycle</h4>
+                                       <p class="Magazin_H4">Aurubis recovers valuable metals from the black mass out of recycled batteries from electric vehicles.</p>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div id="c122" class="au-text space-after-default">
+                           <div class="row">
+                              <div class="col-md-10 col-xl-8">
+                                 <h3><strong>A green transformation pioneer</strong></h3>
+                                 <p>In 2021, Aurubis was the first company in the metal production industry to demonstrate that hydrogen could be used at an industrial scale in copper anode production see&nbsp;<a href="/empowering-energy" class="link-internal">&ldquo;Empowering Energy&rdquo;.</a></p>
+                                 <p>Now we are taking another step toward decarbonizing our multimetal production and once again highlighting our pioneering role in the green transformation of our industry: In October 2022, Aurubis took delivery of an initial 13 t of blue (low-carbon) ammonia from the United Arab Emirates (UAE) to be used in our copper wire rod facility at our Hamburg site. In the long term, we intend to fully replace blue ammonia, which is currently available, with green ammonia. The second is produced using renewable energy. We are thus further diversifying our energy supply and reducing our carbon footprint. Our goal is carbon neutral production well before 2050. At the same time, we are making an important contribution toward establishing a hydrogen supply chain between the UAE and Germany. The current delivery was part of the hydrogen collaboration between the UAE and Germany, which was intensified at the start of 2022. Aurubis and the Abu Dhabi National Oil Company (ADNOC) signed the supply contract during a delegation visit led by Germany's economic minister, Dr. Robert Habeck, in the spring of 2022.</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div id="c120" class="au-quote-text space-after-default">
+                           <div class="row align-items-start">
+                              <div class="col-md-6 col-xl-8 ">
+                                 <blockquote>
+                                    <p>&ldquo;The creation of a blue &mdash; and in the future green &mdash; ammonia value chain is not just theoretically possible, but practically feasible.&rdquo;</p>
+                                    <cite class="p-s">&mdash; Roland Harings, CEO Aurubis</cite>
+                                 </blockquote>
+                              </div>
+                           </div>
+                        </div>
+                        <div id="c121" class="au-it au-it-imageleftoffsettext space-after-default">
+                           <div class="au-it-i">
+                              <div class="row align-items-md-center">
+                                 <div class="col-md-6 col-xl-7">
+                                    <figure>
+                                       <picture><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="/fileadmin/static/images_en/innovations/cr21-22-commissioning-of-the-test-series.png" alt="Photo: Aurubis: Photo at the commissioning of the test series."></picture>
+                                    </figure>
+                                 </div>
+                                 <div class="col-md-6 col-xl-4 offset-xl-1">
+                                    <div>
+                                       <p><span class="color-brand">The test series was symbolically commissioned on October 21, 2022 in the presence of the Federal Minister for Economic Affairs and Climate Action, Dr. Robert Habeck; Dr. Sultan Al Jaber, the UAE's minister for industry and advanced technology and CEO of the ADNOC; Hamburg's first mayor Dr. Peter Tschentscher; Torben Seebold, member of the executive board of HHLA AG; and Roland Harings.</span></p>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div id="c200" class="au-text space-after-extra-extra-large">
+                           <div class="row">
+                              <div class="col-md-11  col-xl-10">
+                                 <p>Video and factsheet about the event&nbsp;can be found <a href="http://www.aurubis.com/en/media/press-releases/ammonia-event" target="_blank" class="link-external-new-window" rel="noreferrer">here</a>.</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div id="c188" class="au-images-3 au-images-3-withoutzoom space-after-extra-extra-large au-images-2-contents">
+                           <div class="row">
+                              <div class="col-md-4">
+                                 <div class="au-images-3-item">
+                                    <figure>
+                                       <picture>
+                                          <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="/fileadmin/static/images_en/innovations/cr21-22-icon-grey-hydrogen-01.svg" alt="Icon: Aurubis: Grey hydrogen">
+                                          <svg width="40" height="40" viewbox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                             <circle cx="20" cy="20" r="19" stroke="white" stroke-width="2"></circle>
+                                             <path d="M22.36 28.0004H13V17.334" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+                                             <path d="M17.6802 12H27.0402V22.6668" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+                                             <path d="M27.04 12L13 27.9993" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+                                          </svg>
+                                       </picture>
+                                    </figure>
+                                    <div class="au-images-2-item-content">
+                                       <h3>Gray hydrogen</h3>
+                                       <p>Produced using fossil fuels. CO<sub>2</sub> is generated in the process.</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-4">
+                                 <div class="au-images-3-item">
+                                    <figure>
+                                       <picture>
+                                          <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="/fileadmin/static/images_en/innovations/cr21-22-icon-blue-hydrogen-01.svg" alt="Icon: Aurubis: Blue hydrogen">
+                                          <svg width="40" height="40" viewbox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                             <circle cx="20" cy="20" r="19" stroke="white" stroke-width="2"></circle>
+                                             <path d="M22.36 28.0004H13V17.334" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+                                             <path d="M17.6802 12H27.0402V22.6668" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+                                             <path d="M27.04 12L13 27.9993" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+                                          </svg>
+                                       </picture>
+                                    </figure>
+                                    <div class="au-images-3-item-content">
+                                       <h3>Blue hydrogen</h3>
+                                       <p>Produced using fossil fuels, but the CO<sub>2</sub>&nbsp;is captured and stored (CCS = carbon capture storage), or further processed as a raw material.</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-4">
+                                 <div class="au-images-3-item">
+                                    <figure>
+                                       <picture>
+                                          <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="/fileadmin/static/images_en/innovations/cr21-22-icon-green-hydrogen-01.svg" alt="Icon: Aurubis: Green hydrogen">
+                                          <svg width="40" height="40" viewbox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                             <circle cx="20" cy="20" r="19" stroke="white" stroke-width="2"></circle>
+                                             <path d="M22.36 28.0004H13V17.334" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+                                             <path d="M17.6802 12H27.0402V22.6668" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+                                             <path d="M27.04 12L13 27.9993" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+                                          </svg>
+                                       </picture>
+                                    </figure>
+                                    <div class="au-images-3-item-content">
+                                       <h3>Green hydrogen</h3>
+                                       <p>Produced exclusively using renewable sources of energy, so no carbon emissions.</p>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div id="c124" class="au-it au-it-imageleftbig space-after-default">
+                           <div class="au-it-i">
+                              <div class="row align-items-md-end">
+                                 <div class="col-md-6 col-xl-8">
+                                    <figure>
+                                       <picture><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="/fileadmin/_processed_/6/6/csm_cr21-22-digital-factory_ed5e7eb2eb.jpg" alt="Image: Aurubis: Digital Factory"></picture>
+                                    </figure>
+                                 </div>
+                                 <div class="col-md-6 col-xl-4">
+                                    <div>
+                                       <h2><strong>The opportunities of digitalization</strong></h2>
+                                       <p class="p-intro">We see digitalization as a driver of innovation leading to a permanent process of change that impacts every area of our company &ndash; processes, production, and customer relations &ndash; and as such forms the foundation of our company strategy.</p>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div id="c125" class="au-text space-after-extra-large">
+                           <div class="row">
+                              <div class="col-md-10 offset-md-2 col-xl-8 offset-xl-4">
+                                 <h3><strong>Aurubis is set to become a digital factory</strong></h3>
+                                 <p>The Digital Factory is both a vision and a path, as we use digitalization as a means for making continuous improvements to our production through the use of new technologies. With digital tools, we are making our production more efficient, more transparent, more sustainable, and safer &ndash; enabling, for instance, an improved mode of operation for facilities, earlier error analysis, and more accurate forecasting for processes. We are pursuing our Digital Factory program together with our smelter sites and our data engineering and data science teams. In the core team, around 15 members of staff (depending on the relevant use case) work on implementation on an interdisciplinary basis.</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div id="c212" class="au-video-wrap space-after-extra-extra-large ">
+                           <div class="row">
+                              <div class="col-md-7 offset-md-5 col-xl-8 offset-xl-4">
+                                 <video class="lazy" disablepictureinpicture playsinline controls preload="none" data-src="https://aurubis.cdn.picturepark.com/v/vwGPAd3B/" data-poster="/fileadmin/_processed_/1/f/csm_gb21-22-aurubis-innovations-digital-factory-video-01_b62439418a.jpg">
+                                    <source type="video/mp4" data-src="https://aurubis.cdn.picturepark.com/v/vwGPAd3B/">
+                                    </source>
+                                 </video>
+                              </div>
+                           </div>
+                        </div>
+                        <div id="c209" class="au-text space-after-default">
+                           <div class="row">
+                              <div class="col-md-10 offset-md-2 col-xl-8 offset-xl-4">
+                                 <h3><strong>New software generations and IT systems</strong></h3>
+                                 <p>To ensure the successful digitalization of its processes, production operations and customer relations, Aurubis is implementing various programs and projects at the same time. We are introducing the latest S/4HANA software generation from SAP under the &ldquo;Fusion&rdquo; project name and ensuring the standardization of business processes at our smelter sites. Non-SAP processes and IT systems are being harmonized in additional projects and linked with SAP.</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div id="c133" class="au-it au-it-imageleftoffsettext space-after-default">
+                           <div class="au-it-i">
+                              <div class="row align-items-md-center">
+                                 <div class="col-md-6 col-xl-7">
+                                    <figure>
+                                       <picture><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="/fileadmin/static/images_en/innovations/cr21-22-dashboard-for-daily-analysis.jpg" alt="Photo: Aurubis: Dashboard for daily analysis"></picture>
+                                    </figure>
+                                 </div>
+                                 <div class="col-md-6 col-xl-4 offset-xl-1">
+                                    <div>
+                                       <p><span class="color-brand">With the help of the Digital Factory, a dashboard was set up in our Hamburg lead plants for the daily analysis and utilization of production data.</span></p>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div id="c127" class="au-text space-after-default">
+                           <div class="row">
+                              <div class="col-md-10 col-xl-8">
+                                 <h3><strong>Aurubis' Business Partner Portal launched</strong></h3>
+                                 <p>Our Digital Innovation Lab is an important aspect of the company's transition to a digital future. We develop digital services for customers and suppliers here. These include our Business Partner Portal, which began offering our customers and suppliers an initial range of services in August 2022. It is currently available for existing suppliers in the recycling business segment. Further product areas and sites are continuously being added. Within the scope of existing business relationships, the portal provides digital contract information, while also allowing users to check on and manage deliveries and to fix metal prices while gaining related insights and an overview.</p>
+                                 <p>For more information, see <a href="http://www.aurubis.com/en/products/business-partner-portal" target="_blank" class="link-external-new-window" rel="noreferrer">here</a>.</p>
+                                 <h3>&nbsp;</h3>
+                                 <h3><strong>An Internet of Things platform for production operations</strong></h3>
+                                 <p>Aurubis acquired azeti GmbH, Berlin, in 2020. This software start-up is supporting our digitalization strategy with its Internet of Things platform, as a recent example from Aurubis Olen demonstrates: Here the platform is being used to monitor the condition of the inductor, the key component in the smelter furnace. azeti is also developing our new Manufacturing Execution System (MES), which covers areas such as our inventory management and will be rolled out throughout the Group. MES is Aurubis' second-most important software package after SAP.</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div id="c134" class="au-image space-after-default">
+                           <div class="au-image-inner">
+                              <div class="row">
+                                 <div class="col-12">
+                                    <figure>
+                                       <picture><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="/fileadmin/_processed_/b/2/csm_cr21-22-forklift-truck-with-cable-drum_fa89b35532.jpg" alt="Photo: Aurubis: Forklift truck transports a cable drum"></picture>
+                                       <figcaption>
+                                          The new digital time slot system at Deutsche Giessdraht (Emmerich) means shipments can now be processed more rapidly.
+                                       </figcaption>
+                                    </figure>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div id="c132" class="au-text space-after-extra-extra-large">
+                           <div class="row">
+                              <div class="col-md-10 offset-md-2 col-xl-8 offset-xl-4">
+                                 <h3><strong>Digitalization of logistics</strong></h3>
+                                 <p>In addition to its broader impact at a structural level, digitalization is increasingly shaping the field of logistics. Our sites use digital tracking tools for incoming deliveries of materials or outgoing deliveries by ship, truck, or container. With the support of Group Logistics, a digital time slot system is being introduced for the last few meters to the plant to assist road haulers with loading and unloading.</p>
+                              </div>
+                           </div>
+                        </div>
+                        <!--TYPO3SEARCH_end-->
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </main>
+         <footer id="footer" class="d-print-none">
+            <div class="f-c-w">
+               <div class="container-fluid">
+                  <div class="f-c"></div>
+               </div>
+            </div>
+            <div class="f-s-w">
+               <div class="container-fluid">
+                  <div class="f-s">
+                     <div class="f-s-l">
+                        <ul>
+                           <li><a href="/contact">Contact</a></li>
+                           <li><a href="https://www.aurubis.com/en/" target="_blank">The Group</a></li>
+                           <li><a href="/imprint">Imprint</a></li>
+                           <li><a href="/data-privacy">Data Privacy</a></li>
+                           <li><a href="/sitemap">Sitemap</a></li>
+                           <li><a href="/download-center">Download</a></li>
+                           <li><a href="/help">Help</a></li>
+                        </ul>
+                     </div>
+                     <div class="copyright">&copy; 2023 Aurubis AG</div>
+                  </div>
+               </div>
+            </div>
+            <div hidden></div>
+         </footer>
+         <button id="btn-top" class="d-print-none" aria-label="Scroll to top"><i class="icon-aw"></i></button>
+         <div id="overlay"></div>
+      </div>
+      <script src="/home/fifinonz/Desktop/ICARDA/2023/AR22/app.js"></script>
+   </body>
+</html>
