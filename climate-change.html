@@ -209,25 +209,25 @@
                                        <h3 class="BU-Kopie">Integration of ICARDA AG industrial heat</h3>
                                        <h4>&nbsp;</h4>
                                        <h4>
-                                          <span class="number-counter">1</span>
+                                          <span class="number-counter">30</span>
                                           <span class="color-brand">ICARDA</span>
                                        </h4>
                                        <p class="BU-Kopie">Modification of a copper production sub-process for the use of carbon-free industrial heat (enough to heat 20,000 households)</p>
                                        <hr>
                                        <h4>
-                                          <span class="number-counter">2</span>
+                                          <span class="number-counter">25</span>
                                           <span class="color-brand">Thermal energy storage</span>
                                        </h4>
                                        <p>Innovative short-term storage to homogenize industrial heat for use in the district heating network</p>
                                        <hr>
                                        <h4>
-                                          <span class="number-counter">3</span>
+                                          <span class="number-counter">300</span>
                                           <span class="color-brand">Spaldingstrasse</span>
                                        </h4>
                                        <p>Feed-in of the industrial heat to W&auml;rme Hamburg's city-wide district heating network</p>
                                        <hr>
                                         <h4>
-                                          <span class="number-counter">4</span>
+                                          <span class="number-counter">47</span>
                                           <span class="color-brand">Customers</span>
                                        </h4>
                                        <p>Delivery of carbon-free industrial heat, with a CO<sub>2</sub> reduction of up to 100,000 t per year</p>
@@ -405,5 +405,24 @@
          <div id="overlay"></div>
       </div>
       <script src="app.js"></script>
+      <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+      <script>
+         $(document).ready(function() {
+            $(".number-counter").each(function(index) {
+               var startingNumber = 0;
+               var endingNumber = parseInt($(this).text().trim());
+               var duration = 2000;
+               $(this).prop('Counter', startingNumber).animate({
+                  Counter: endingNumber
+               }, {
+                  duration: duration,
+                  easing: 'swing',
+                  step: function(now) {
+                  $(this).text(Math.ceil(now));
+                  }
+               });
+            });
+         });
+      </script>
    </body>
 </html>
