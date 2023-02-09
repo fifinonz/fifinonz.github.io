@@ -11236,7 +11236,7 @@ html.cookiebanner-show #cookiebanner.active .cookiebanner-main-wrap,html.cookieb
 .page-home{
     --hs:1.5vw;
     --hl:var(--hs);
-    background-image:url("/home/fifinonz/Desktop/ICARDA/2023/AR22/GraphicsBG.png");
+    background-image:url("GraphicsBG.png");
     background-size: cover;
 
 }

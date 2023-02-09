@@ -17,8 +17,8 @@
       <meta property="og:image:url" content="https://annualreport2021-22.aurubis.com/fileadmin/_processed_/7/c/csm_ar21-22-opengraph_bfc50aa747.jpg">
       <meta name="twitter:card" content="summary">
       <meta name="format-detection" content="telephone=no">
-      <link rel="stylesheet" href="/home/fifinonz/Desktop/ICARDA/2023/AR22/style.css" media="all">
-      <link rel="stylesheet" href="/home/fifinonz/Desktop/ICARDA/2023/AR22/style.css" media="print">
+      <link rel="stylesheet" href="style.css" media="all">
+      <link rel="stylesheet" href="style.css" media="print">
       <link rel="icon" type="image/png" href="/typo3conf/ext/kc_theme_aurubis22/Resources/Public/icons/favicon/favicon-16x16.png" sizes="16x16">
       <link rel="icon" type="image/png" href="/typo3conf/ext/kc_theme_aurubis22/Resources/Public/icons/favicon/favicon-32x32.png" sizes="32x32">
       <link rel="icon" type="image/png" href="/typo3conf/ext/kc_theme_aurubis22/Resources/Public/icons/favicon/android-icon-192x192.png" sizes="192x192">
@@ -38,7 +38,7 @@
             <div class="h-c">
                <div class="h-c-1">
                   <a href="/">
-                      <img class="lazy" style="object-position:50% 20%;" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="/home/fifinonz/Desktop/ICARDA/2023/AR22/logo-icarda-2022.png" width="768" height="576" alt="" />
+                      <img class="lazy" style="object-position:50% 20%;" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="logo-icarda-2022.png" width="768" height="576" alt="" />
                   </a>
                   <a href="#"><span>ICARDA Annual Report 2022</span></a>
                </div>
@@ -59,13 +59,13 @@
                            <div class="h-p-s"></div>
                            <nav class="mainnav">
                               <ul class="nav">
-                                 <li data-img="/fileadmin/_processed_/7/a/csm_gb21-22-aurubis-vorstand-header-nav_01_db00b4e548.jpg" data-img-lg="/fileadmin/_processed_/7/a/csm_gb21-22-aurubis-vorstand-header-nav_01_fe6565b825.jpg" data-uid="30" ><a href="/home/fifinonz/Desktop/ICARDA/2023/AR22/foreword">Message from the Board Chair and the Director General</a>
-                                 <li data-img="/fileadmin/_processed_/1/4/csm_gb21-22-aurubis-strategie-header-nav_613c4fc5bb.jpg" data-img-lg="/fileadmin/_processed_/1/4/csm_gb21-22-aurubis-strategie-header-nav_0bb21489aa.jpg" data-uid="24" ><a href="/home/fifinonz/Desktop/ICARDA/2023/AR22/our-strategy"></a>
-                                 <li data-img="/fileadmin/_processed_/a/9/csm_gb21-22-aurubis-energy-header-nav_7864e403a4.jpg" data-img-lg="/fileadmin/_processed_/a/9/csm_gb21-22-aurubis-energy-header-nav_f7e736f464.jpg" data-uid="25" ><a href="/home/fifinonz/Desktop/ICARDA/2023/AR22/climate-change">Climate Change and the Region</a>
-                                 <li data-img="/fileadmin/_processed_/8/5/csm_gb21-22-aurubis-recycling-header-nav_ffcf557fee.jpg" data-img-lg="/fileadmin/_processed_/8/5/csm_gb21-22-aurubis-recycling-header-nav_11aad3c57c.jpg" data-uid="26" ><a href="/home/fifinonz/Desktop/ICARDA/2023/AR22/water-sustainability">Water Sustainability</a>
-                                 <li data-img="/fileadmin/_processed_/5/0/csm_gb21-22-aurubis-innovations-header-nav_0e482fb98d.jpg" data-img-lg="/fileadmin/_processed_/5/0/csm_gb21-22-aurubis-innovations-header-nav_be5a566098.jpg" data-uid="27" ><a href="/home/fifinonz/Desktop/ICARDA/2023/AR22/integrated-products">Integrated Products</a>
-                                 <li data-img="/fileadmin/_processed_/4/0/csm_gb21-22-aurubis-employees-header-nav_96188e5527.jpg" data-img-lg="/fileadmin/_processed_/4/0/csm_gb21-22-aurubis-employees-header-nav_86608b6f81.jpg" data-uid="28" ><a href="/home/fifinonz/Desktop/ICARDA/2023/AR22/regional-collaborations">Regional Collaborations</a>
-                                 <li data-img="/fileadmin/_processed_/5/1/csm_gb21-22-aurubis-sustainability-header-nav_fbb7079a98.jpg" data-img-lg="/fileadmin/_processed_/5/1/csm_gb21-22-aurubis-sustainability-header-nav_33ba018c1a.jpg" data-uid="29" ><a href="/home/fifinonz/Desktop/ICARDA/2023/AR22/capacity-building">Capacity Building</a>
+                                 <li data-img="/fileadmin/_processed_/7/a/csm_gb21-22-aurubis-vorstand-header-nav_01_db00b4e548.jpg" data-img-lg="/fileadmin/_processed_/7/a/csm_gb21-22-aurubis-vorstand-header-nav_01_fe6565b825.jpg" data-uid="30" ><a href="foreword">Message from the Board Chair and the Director General</a>
+                                 <li data-img="/fileadmin/_processed_/1/4/csm_gb21-22-aurubis-strategie-header-nav_613c4fc5bb.jpg" data-img-lg="/fileadmin/_processed_/1/4/csm_gb21-22-aurubis-strategie-header-nav_0bb21489aa.jpg" data-uid="24" ><a href="our-strategy"></a>
+                                 <li data-img="/fileadmin/_processed_/a/9/csm_gb21-22-aurubis-energy-header-nav_7864e403a4.jpg" data-img-lg="/fileadmin/_processed_/a/9/csm_gb21-22-aurubis-energy-header-nav_f7e736f464.jpg" data-uid="25" ><a href="climate-change">Climate Change and the Region</a>
+                                 <li data-img="/fileadmin/_processed_/8/5/csm_gb21-22-aurubis-recycling-header-nav_ffcf557fee.jpg" data-img-lg="/fileadmin/_processed_/8/5/csm_gb21-22-aurubis-recycling-header-nav_11aad3c57c.jpg" data-uid="26" ><a href="water-sustainability">Water Sustainability</a>
+                                 <li data-img="/fileadmin/_processed_/5/0/csm_gb21-22-aurubis-innovations-header-nav_0e482fb98d.jpg" data-img-lg="/fileadmin/_processed_/5/0/csm_gb21-22-aurubis-innovations-header-nav_be5a566098.jpg" data-uid="27" ><a href="integrated-products">Integrated Products</a>
+                                 <li data-img="/fileadmin/_processed_/4/0/csm_gb21-22-aurubis-employees-header-nav_96188e5527.jpg" data-img-lg="/fileadmin/_processed_/4/0/csm_gb21-22-aurubis-employees-header-nav_86608b6f81.jpg" data-uid="28" ><a href="regional-collaborations">Regional Collaborations</a>
+                                 <li data-img="/fileadmin/_processed_/5/1/csm_gb21-22-aurubis-sustainability-header-nav_fbb7079a98.jpg" data-img-lg="/fileadmin/_processed_/5/1/csm_gb21-22-aurubis-sustainability-header-nav_33ba018c1a.jpg" data-uid="29" ><a href="capacity-building">Capacity Building</a>
                                 <li data-img="" data-img-lg="" data-uid="31" ><a href="https://icarda.org/about-us/donors-and-partners">Donors & Partners</a>
 
                                  <li data-img="" data-img-lg="" data-uid="37" ><a href="https://icarda.org/about-us/board-trustees">Board of Trustees</a>
@@ -118,9 +118,9 @@
                         <div id="c66" class="au-top-int space-after-extra-small au-top-int-">
                            <div class="au-top-int-inner">
                               <div class="au-top-int-im">
-                                 <figure><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="/home/fifinonz/Desktop/ICARDA/2023/AR22/bg11.jpeg" alt="Foto: ICARDA: Metallguss"></figure>
-                                 <figure><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="/home/fifinonz/Desktop/ICARDA/2023/AR22/bg7.jpg" alt="Foto: ICARDA: Kupfer"></figure>
-                                 <figure><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="/home/fifinonz/Desktop/ICARDA/2023/AR22/bg4.jpeg" alt="Foto: ICARDA: Headerbild"></figure>
+                                 <figure><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="bg11.jpeg" alt="Foto: ICARDA: Metallguss"></figure>
+                                 <figure><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="bg7.jpg" alt="Foto: ICARDA: Kupfer"></figure>
+                                 <figure><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203%202'%3E%3C/svg%3E" data-src="bg4.jpeg" alt="Foto: ICARDA: Headerbild"></figure>
                               </div>
                               <div class="au-top-int-c">
                                  <h1 style="font-weight: 700;"class="i-title">Unlocking<br>our potential</h1>
@@ -407,6 +407,6 @@
          <button id="btn-top" class="d-print-none" aria-label="Scroll to top"><i class="icon-aw"></i></button>
          <div id="overlay"></div>
       </div>
-      <script src="/home/fifinonz/Desktop/ICARDA/2023/AR22/app.js"></script>
+      <script src="app.js"></script>
    </body>
 </html>
