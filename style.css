@@ -11233,6 +11233,17 @@ html.cookiebanner-show #cookiebanner.active .cookiebanner-main-wrap,html.cookieb
 :not(.menu-open,.search-active) .page-home #header .h-c-1>:last-child{
     color:#fff
 }
+.number-counter {
+      display: inline-block;
+      width: 1.5em;
+      height: 1.5em;
+      background-color: #333;
+      color: #2D7436;
+      border-radius: 50%;
+      text-align: center;
+      line-height: 1.5em;
+      margin-right: 0.5em;
+   }
 .page-home{
     --hs:1.5vw;
     --hl:var(--hs);
