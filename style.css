@@ -11250,7 +11250,7 @@ html.cookiebanner-show #cookiebanner.active .cookiebanner-main-wrap,html.cookieb
     background-size: cover;*/
 
 }
-.page-home::before {
+/*.page-home::before {
   content: "";
   display: block;
   position: absolute;
@@ -11258,8 +11258,8 @@ html.cookiebanner-show #cookiebanner.active .cookiebanner-main-wrap,html.cookieb
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(0, 0, 0, 0.35); /* Black color with 0.5 opacity */
-}
+  background-color: rgba(0, 0, 0, 0.35);
+}*/
 .page-home #header{
     opacity:0
 }
