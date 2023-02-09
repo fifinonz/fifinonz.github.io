@@ -5404,7 +5404,7 @@ progress{
     src:url(fonts/d6241c0e-d7b5-46c2-8d41-524b7a7c86d1.woff2) format("woff2"),url(fonts/b02e1860-f927-4d9a-9f4f-e66d2a5760d9.woff) format("woff")
 }
 @font-face{
-    font-family:iconaurubis;
+    font-family:iconicarda;
     font-style:normal;
     font-weight:400;
     src:url(fonts/au21.woff2?76287699) format("woff2"),url(fonts/au21.woff?76287699) format("woff")
@@ -5414,7 +5414,7 @@ progress{
     -webkit-font-smoothing:antialiased;
     -moz-osx-font-smoothing:grayscale;
     display:inline-block;
-    font-family:iconaurubis;
+    font-family:iconicarda;
     font-style:normal;
     font-variant:normal;
     font-weight:400;
