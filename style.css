@@ -11237,11 +11237,11 @@ html.cookiebanner-show #cookiebanner.active .cookiebanner-main-wrap,html.cookieb
       display: inline-block;
       width: 2.5em;
       height:2.5em;
-      background-color: #8a6d3b;
+      background-color: #faebcc;
       color: #2D7436;
       border-radius: 50%;
       text-align: center;
-      line-height: 1.5em;
+      line-height: 2.5em;
       margin-right: 0.5em;
    }
 .page-home{
