@@ -11245,6 +11245,7 @@ html.cookiebanner-show #cookiebanner.active .cookiebanner-main-wrap,html.cookieb
 .page-home{
     --hs:1.5vw;
     --hl:var(--hs);
+    background-color: #2D7436;
     /*background-image:url("GraphicsBG.png");
     background-size: cover;*/
 
